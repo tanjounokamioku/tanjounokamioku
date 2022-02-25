@@ -16,9 +16,6 @@
 </div>
   <div style="display: inline_block">
     <br><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -27,7 +24,6 @@
   <img align="center" alt="Unity" height="40" width="40" src="https://img.icons8.com/nolan/50/unity.png">
   <img align="center" alt="C#" height="35" width="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" width="130" height="130" border="0" alt="N" src="https://i.picasion.com/pic92/110675bac5c1852a0cb47d72ed92defd.gif"/>
 </div>
   
@@ -41,6 +37,6 @@
 <!-- 	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <!--  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
 
-<!--   ![Snake animation](https://github.com/coadordecoffee/coadordecoffe/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/coadordecoffee/coadordecoffe/blob/output/github-contribution-grid-snake.svg)
  
 </div>
