@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on game development projects
 - 🤔 I’m looking for help with 日本語！
 - 💬 Ask me about games, anime, Angular, Python and more
-- 📫 How to reach me: @coadordecoffee on all social media
+- 📫 How to reach me: @coadordecoffee/tanjounokamioku on all social media
 - ⚡ Fun fact: I've been an internet content creator for 13 years 
 
 <div align="center">
