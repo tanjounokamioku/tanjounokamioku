@@ -1,5 +1,5 @@
 # Hello world! I am N. 
-## Software Engineer, Game Developer. Founder of <a href="https://cybercafe.blog.br">CyberCafe</a>. Herald of caffeine. Extremely otaku. 日本語学習者.  
+## Software Engineer, Game Developer. Founder of <a href="https://cybercafe.blog.br">CyberCafe</a> and TANJOOCOMP. Herald of caffeine. Extremely otaku. 日本語学習者.  
 
 - 🔭 I’m currently working as a full-stack developer, focused on Angular, Java and C#
 - 🌱 I’m currently learning more of the technologies I use
