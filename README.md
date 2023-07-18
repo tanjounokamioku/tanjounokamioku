@@ -1,8 +1,8 @@
 # Hello world! I am N. 
 ## Software Engineer, Game Developer and Content Creator. Founder of <a href="https://cybercafe.blog.br">CyberCafe</a>. Herald of caffeine. Extremely otaku. 落ち着かない. 日本語学習者.
 
-- 🔭 I’m currently working as a full-stack developer, focused on Angular, Java and C#
-- 🌱 I’m currently learning more of the technologies I use
+- 🔭 I’m currently working as a Full-Stack Developer, focused on Angular, Java and C#
+- 🌱 I’m currently learning more of Data Science, Artificial Intelligence and Machine Learning
 - 👯 I’m looking to collaborate on game development projects
 - 🤔 I’m looking for help with 日本語！ 
 - 📫 @coadordecoffee/@tanjounokamioku on all social media
