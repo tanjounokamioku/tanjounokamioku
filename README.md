@@ -1,16 +1,15 @@
-# Hello world! I am N. 
+# Hello world! I am Tanjou. 
 ## Software Engineer, Game Developer and Content Creator. Founder of <a href="https://cybercafe.blog.br">CyberCafe</a>. Herald of caffeine. Extremely otaku. 落ち着かない. 日本語学習者.
 
-- 🔭 I’m currently working as a Full-Stack Developer, focused on Angular, Java and C#
-- 🌱 I’m currently learning more of Data Science, Artificial Intelligence and Machine Learning
+- 🔭 I’m currently working as a Full-Stack Developer, focused on Angular, Java, Python and C#
+- 🌱 I’m currently learning more of Data Science, Artificial Intelligence and 日本語!
 - 👯 I’m looking to collaborate on game development projects
-- 🤔 I’m looking for help with 日本語！ 
 - 📫 @coadordecoffee/@tanjounokamioku on all social media
 
 <!--   <div align="center">
-  <a href="https://github.com/coadordecoffee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coadordecoffee&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coadordecoffee&layout=compact&langs_count=8&theme=synthwave"/> 
+  <a href="https://github.com/tanjounokamioku">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjounokamioku&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjounokamioku&layout=compact&langs_count=8&theme=synthwave"/> 
 </div> -->
   <div style="display: inline_block">
     <br><br>
@@ -31,12 +30,12 @@
   
   <div> 
   <a href="https://twitter.com/tanjounokamioku" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/coadordecoffee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/tanjounokamioku" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/coadordecoffee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--   <a href="https://www.youtube.com/channel/UCcSLlR2yJhN3QRqC4tYIGlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <!-- 	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <!--  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
 
-  ![Snake animation](https://github.com/coadordecoffee/coadordecoffee/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tanjounokamioku/tanjounokamioku/blob/output/github-contribution-grid-snake.svg)
  
 </div>
