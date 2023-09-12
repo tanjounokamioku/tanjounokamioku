@@ -4,7 +4,6 @@
 - 🔭 I’m currently working as a Full-Stack Developer, focused on Angular, Java, Python and C#
 - 🌱 I’m currently learning more of Data Science, Artificial Intelligence and 日本語!
 - 👯 I’m looking to collaborate on game development projects
-- 📫 @coadordecoffee/@tanjounokamioku on all social media
 
 <!--   <div align="center">
   <a href="https://github.com/tanjounokamioku">
