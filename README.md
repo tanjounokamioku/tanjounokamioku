@@ -1,7 +1,7 @@
 # Hello world! I am Tanjou. 
 ## Software Engineer, Game Developer and Content Creator. Founder of <a href="https://cybercafe.blog.br">CyberCafe</a>. Herald of caffeine. Extremely otaku. 落ち着かない. 日本語学習者.
 
-- 🔭 I’m currently working as a Full-Stack Developer, focused on Angular, Java, Python and C#
+- 🔭 I’m currently working as a Full-Stack Developer, focused on Angular, React, Java, Python and C#
 - 🌱 I’m currently learning more of Data Science, Artificial Intelligence and 日本語!
 - 👯 I’m looking to collaborate on game development projects
 
