@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Full-Stack Developer, focused on Angular, React, Java, Python and C#
 - 🌱 I’m currently learning more of Data Science, Artificial Intelligence and 日本語!
-- 💡 I'm want to learn more about Ruby and C++!
+- 💡 I'm want to learn more about Ruby, C++ and WebGL!
 - 👯 I’m looking to collaborate on game development projects!
 
 <!--   <div align="center">
