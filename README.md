@@ -24,6 +24,8 @@
   <img align="center" alt="Unity" height="40" width="40" src="https://img.icons8.com/nolan/50/unity.png">
   <img align="center" alt="C#" height="35" width="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
   <img align="right" width="130" height="130" border="0" alt="N" src="https://i.picasion.com/pic92/110675bac5c1852a0cb47d72ed92defd.gif"/>
 </div>
   
