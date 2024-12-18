@@ -1,7 +1,7 @@
 # Hello world! I am Tanjou. 
 ## Software Engineer, Game Developer and Content Creator. Founder of <a href="https://cybercafe.blog.br">CyberCafe</a>. Herald of caffeine. Extremely otaku. 落ち着かない. 日本語学習者.
 
-- 🔭 I’m currently working as a Full-Stack Developer, focused on TypeScript, Angular, React, Java, Python
+- 🔭 I’m currently working as a Full-Stack Developer, focused on TypeScript and Node
 - 🌱 I’m currently learning more of Data Science, Artificial Intelligence and 日本語!
 - 💡 I'm want to learn more about Ruby, C++ and WebGL!
 - 👯 I’m looking to collaborate on game development projects!
@@ -15,10 +15,10 @@
     <br><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Unity" height="40" width="40" src="https://img.icons8.com/nolan/50/unity.png">
