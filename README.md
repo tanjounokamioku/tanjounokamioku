@@ -1,6 +1,6 @@
 # Hello world! I am Tanjou.
-### Brazilian Software Engineer living in Tokyo, Japan. 
-### Game Developer and Content Creator.
+### Brazilian Software Engineer living in Tokyo, Japan. 🗼🇯🇵
+I am also a Game Developer and Content Creator.
 
 - 🔭 I’m currently working as a Server-Side, focused on TypeScript and Node.
 - 🌱 I’m currently learning more of Artificial Intelligence and 日本語!
