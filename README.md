@@ -3,8 +3,8 @@
 I am also a Game Developer and Content Creator.
 
 - 🔭 I’m currently working as a Server-Side, focused on TypeScript and Node.
-- 🌱 I’m currently learning more of Artificial Intelligence and 日本語!
-- 💡 I want to learn more about Godot!
+- 🌱 I’m currently learning more of Godot and 日本語!
+- 💡 I want to learn more about 3D Graphics and Music!
 <!-- Founder of <a href="https://cybercafe.blog.br">CyberCafe</a>. Herald of caffeine. Extremely otaku. 落ち着かない. 日本語学習者.
   <div align="center">
   <a href="https://github.com/tanjounokamioku">
