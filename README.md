@@ -9,32 +9,31 @@ I am also a Game Developer and Content Creator.
   <div align="center">
   <a href="https://github.com/tanjounokamioku">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjounokamioku&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjounokamioku&layout=compact&langs_count=8&theme=synthwave"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjounokamioku&layout=compact&langs_count=8&theme=synthwave"/>
 </div> -->
-  <div style="display: inline_block">
-    <!-- <br><br> --> 
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Unity" height="40" width="40" src="https://img.icons8.com/nolan/50/unity.png">
-  <img align="center" alt="C#" height="35" width="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
-<!--   <img align="right" width="130" height="130" border="0" alt="N" src="https://i.picasion.com/pic92/110675bac5c1852a0cb47d72ed92defd.gif"/> -->
-</div>
-<br> 
-  <div style="display: inline_block">   
+<p align="left">
+  <a href="https://www.javascript.com" target="_blank"><img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" target="_blank"></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_blank"></a>
+  <a href="https://nodejs.org" target="_blank"><img alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" target="_blank"></a>
+  <a href="https://reactjs.org" target="_blank"><img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" target="_blank"></a>
+  <a href="https://angular.io" target="_blank"><img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" target="_blank"></a>
+  <a href="https://www.java.com" target="_blank"><img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank"></a>
+  <a href="https://www.python.org" target="_blank"><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"></a>
+  <a href="https://www.r-project.org" target="_blank"><img alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" target="_blank"></a>
+  <a href="https://godotengine.org" target="_blank"><img alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" target="_blank"></a>
+  <a href="https://unity.com" target="_blank"><img alt="Unity" height="40" width="40" src="https://img.icons8.com/nolan/50/unity.png" target="_blank"></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" height="35" width="35" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" target="_blank"></a>
+  <a href="https://www.cplusplus.com" target="_blank"><img alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" target="_blank"></a>
+  <a href="https://www.ruby-lang.org" target="_blank"><img alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" target="_blank"></a>
+  <a href="https://rubyonrails.org" target="_blank"><img alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" target="_blank"></a>
+</p>
+<br>
+<p align="left">
   <a href="https://twitter.com/tanjounokamioku" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/tanjounokamioku" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tanjou" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--   <a href="https://www.youtube.com/channel/UCcSLlR2yJhN3QRqC4tYIGlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<!-- 	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+<!--     <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <!--  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
 <!--  ![Snake animation](https://github.com/tanjounokamioku/tanjounokamioku/blob/output/github-contribution-grid-snake.svg) -->
-</div>
+</p>
